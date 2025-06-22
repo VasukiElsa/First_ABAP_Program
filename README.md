@@ -9,7 +9,12 @@ Then draw vertical and horizontal line tabs for each statements. Then adding col
 4. Then Save it.
 5. Now our system will create an object for this program.
 
+
+# OUTPUT REPORT:
+
 ![SAP 2](https://github.com/user-attachments/assets/cc6f83a6-e285-4716-9d7b-c92eee6dccdd)
+
+
 ![SAP 3](https://github.com/user-attachments/assets/266e0df4-5c86-4c18-816d-6e789b007218)
 
 
