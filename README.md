@@ -8,6 +8,11 @@ Then draw vertical and horizontal line tabs for each statements. Then adding col
 3. Then choose type as "Executable Program"
 4. Then Save it.
 5. Now our system will create an object for this program.
+
+![SAP 2](https://github.com/user-attachments/assets/cc6f83a6-e285-4716-9d7b-c92eee6dccdd)
+![SAP 3](https://github.com/user-attachments/assets/266e0df4-5c86-4c18-816d-6e789b007218)
+
+
    
 # How to add Transaction code for our program?
 1. T-CODE : SE93 (Used to create, display or maintain T-CODE within a SAP System.
@@ -16,5 +21,8 @@ Then draw vertical and horizontal line tabs for each statements. Then adding col
 4. Provide the name of our program.
 5. Finally select all the check boxes of GUI Support.
 
-### As of now, we have created a basic abap report and provided a custom T-CODE for our program. So that we can directly execute our program by using our Custom T-CODE.
+![SAP 1](https://github.com/user-attachments/assets/9d01d0b1-b9e3-41aa-84d6-ed6f96b5c3e4)
+
+
+### As of now, we have created a basic abap report and provided a custom T-CODE for our program. So that we can directly execute our program by using our Custom T-CODE in SAP EASY ACCESS MENU.
 
